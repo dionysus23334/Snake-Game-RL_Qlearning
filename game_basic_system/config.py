@@ -6,7 +6,7 @@ def get_config():
         'width':600,
         'height':400,
         'snake_size':10,
-        'speed':200,
+        'speed':100,
         'snake':[(200, 200), (190, 200), (180, 200)],  # 初始蛇身
         'snake_direction': "Right", # 初始蛇的运动方向
         'food':None, # 初始食物
